@@ -302,7 +302,7 @@ svg circle:nth-child(2){
 /* ------------------------------------------------------------------------------------ 
    ---------------Contact Section CSS ---------------
 /* ------------------------------------------------------------------------------------ */
-.contact{
+#contact{
     background: url('./pf-bg1.png') no-repeat center center/cover;
     width: 100%;
     display: flex;
@@ -322,11 +322,11 @@ svg circle:nth-child(2){
     align-items: center;
     text-align: center;
 }
-.contact h2{
+#contact h2{
     font-family: 'Permanent Marker', cursive;
     text-shadow: 3px 3px 6px #83837d;
 }
-.contact h4{
+#contact h4{
     font-family: 'Varela Round', sans-serif;
 }
 
