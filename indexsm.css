@@ -303,7 +303,7 @@ svg circle:nth-child(2){
    ---------------Contact Section CSS ---------------
 /* ------------------------------------------------------------------------------------ */
 #contact{
-    background: url('./pf-bg1.png') no-repeat center center/cover;
+    background: linear-gradient(0deg, #1b1b1b, #222, #1b1b1b);
     width: 100%;
     display: flex;
     flex-direction: column;
